@@ -1,0 +1,4 @@
+berat 43
+tinggi 156
+
+
